@@ -6,7 +6,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-primaria:#0C0C0C;
+    /* --cor-primaria:#0C0C0C; */
+    --cor-primaria:yellow;
     --cor-secundaria:#F2613F;
     --cor-terciaria:#9B3922;
     --cor-hover:#481E14;
