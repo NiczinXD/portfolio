@@ -114,6 +114,10 @@ body {
     font-family: var(--fonte-secundaria);
 }
 
+.apresentacao__links2{
+    text-decoration: none;   
+}
+
 .apresentacao__links__link:hover{
     background-color:var(--cor-hover);
 }
