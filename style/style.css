@@ -78,8 +78,18 @@ body {
 .apresentacao__conteudo__texto{
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
-    
 
+}
+
+.apresentacao__conteudo__links{
+    text-decoration: none;
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-primaria);
+    font-weight: 200;
+}
+
+.apresentacao__conteudo__links:hover{
+    color: var(--cor-hover);
 }
 
 .apresentacao__links{
