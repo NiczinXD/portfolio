@@ -170,4 +170,7 @@ body {
         display: none;
     }
 
+    .apresentacao__conteudo__links{
+        font-size: 16px;
+    }
 }
